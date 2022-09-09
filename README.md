@@ -73,3 +73,50 @@ UNIVERSITY OF ASIA PACIFIC | DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING
     PHY 101 	Physics
     PHY 102	        Physics Lab
 ---
+
+    CSE 411		Mobile Communications
+    CSE 413		Cloud Computing
+    CSE 415		Parallel and Distributed Systems
+    CSE 417		Management Information Systems
+    CSE 419		Sensor Networks
+    CSE 421		Graph Theory
+    CSE 423		Bioinformatics
+    CSE 425		Environment and Green Technology
+    CSE 431		Simulation and Modeling
+    CSE 432		Simulation and Modeling Lab
+    CSE 433		Fault Tolerant Systems
+    CSE 434		Fault Tolerant System Lab
+    CSE 435		Pattern Recognition
+    CSE 436		Pattern Recognition Lab
+    CSE 437		Multimedia Technology
+    CSE 438		Multimedia Technology Lab
+    CSE 439		Wireless Networking
+    CSE 440		Wireless Networking Lab
+    CSE 441		Introduction to Computer Vision
+    CSE 442		Introduction to Computer Vision Lab
+    CSE 443		UNIX and Systems Programming
+    CSE 444		UNIX and Systems Programming Lab
+    CSE 445		Human Computer Interaction
+    CSE 446		Human Computer Interaction Lab
+    CSE 447		Distributed Operating System
+    CSE 448		Distributed Operating System Lab
+    CSE 449		Digital Signal Processing
+    CSE 450		Digital Signal Processing Lab
+    CSE 451		Object Oriented Database
+    CSE 452		Object Oriented Database Lab
+    CSE 453		Software Design Pattern
+    CSE 454		Software Design Pattern Lab
+    CSE 455		E-commerce and Web Engineering
+    CSE 456		E-commerce and Web Engineering Lab
+    CSE 459		Natural Language processing
+    CSE 460		Natural Language Processing Lab
+    CSE 461		Robotics
+    CSE 462		Robotics Lab
+    CSE 463		Embedded Systems
+    CSE 464		Embedded Systems Lab
+    CSE 465		Computer and Network Security
+    CSE 466		Computer and Network Security Lab
+    CSE 467		Data Mining & Machine Learning
+    CSE 468		Data Mining & Machine Learning Lab
+    CSE 469		Topics of Current Interest
+    CSE 470		Topics of Current Interest Lab
