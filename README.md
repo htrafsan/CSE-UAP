@@ -1,6 +1,7 @@
 # CSE-UAP
 UNIVERSITY OF ASIA PACIFIC | DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING
 
+---
 
     BUS 401 	Business and Entrepreneurship
     BUS 402 	Business and Entrepreneurship Lab
@@ -64,10 +65,11 @@ UNIVERSITY OF ASIA PACIFIC | DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING
     HSS 111 (A)	Bangladesh Studies: Society and Culture
     HSS 111 (B)	Bangladesh Studies: Bangladesh History
     HSS 301	        English II: English for Communications
-    PHY 101 	Physics
-    PHY 102	        Physics Lab
     MTH 101 	Math I: Basic Calculus, Co-ordinate Geometry
     MTH 103 	Math II: Linear Algebra
     MTH 201 	Math III: Multivariable Calculus
     MTH 203 	Probability & Statistics
     MTH 205 	Math IV: Differential Equations and Fourier and Laplace Transformations
+    PHY 101 	Physics
+    PHY 102	        Physics Lab
+---
