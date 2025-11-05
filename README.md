@@ -16,7 +16,7 @@ UNIVERSITY OF ASIA PACIFIC | DEPARTMENT OF COMPUTER SCIENCE &amp; ENGINEERING
     CSE 204 	Object Oriented Programming I: Java Lab
     CSE 205 	Data Structures
     CSE 206 	Data Structures Lab
-    CSE 207	        Algorithms
+    CSE 207	    Algorithms
     CSE 208 	Algorithms Lab
     CSE 209 	Digital Logic & System Design
     CSE 210 	Digital Logic & System Design Lab
