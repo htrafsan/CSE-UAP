@@ -1,5 +1,5 @@
 # CSE-UAP
-BACHELOR OF SCIENCE (ENGINEERING) IN COMPUTER SCIENCE & ENGINEERING | UNIVERSITY OF ASIA PACIFIC | DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+Bachelor of Science (Engineering) in Computer Science & Engineering | University of Asia Pacific | Department of Computer Science & Engineering
 
 ---
     BUS 401 	Business and Entrepreneurship
